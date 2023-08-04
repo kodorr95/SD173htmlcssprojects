@@ -1,0 +1,11 @@
+li {
+    color: red; 
+}
+/* applies to all list items (li) */
+
+.blue-text {
+    color: blue
+}
+/* So, ANYTHING with the class "blue-text" will turn blue, despite being previously defined as being red. */
+
+/* if you apply two types of styling for something, class styling supercedes styling on the element. Class is given priority */

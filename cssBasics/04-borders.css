@@ -1,0 +1,40 @@
+body {
+    background-color: plum;
+}
+
+.wrapper{
+    margin: 5px;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+#title-p{
+    text-align: center;
+}
+
+a {
+    
+    border: dotted;
+    border-width: 5px;
+}
+
+ul {
+    border: dotted;
+    border-width: 5px;
+}
+
+.border-width p {
+    border-style: solid;
+    border-width: 5px
+}
+
+#four-widths {
+    border-width: 2px 10px 4px 20px
+}
+
+#border-color {
+    border-color: #FF8855;
+}

@@ -1,0 +1,8 @@
+body {
+    background-color: #D3D3D3;
+}
+.wrapper {
+    border: 10px solid red;
+}
+
+/* .wrapper takes the class that we already defined within our 00-setup.html code. It ONLY modifies what is included within that <div class> tag */

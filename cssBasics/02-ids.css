@@ -1,0 +1,26 @@
+body {
+    background-color: cyan;
+}
+
+/* when targeting ID, use # */
+
+#number-one {
+    color: red;
+}
+
+#number-two {
+    font-size: 20px;
+}
+
+.first-class {
+    color: blue;
+}
+
+.second-class {
+    color: black;
+}
+/* last rule applied will override any previous rules. For example, changing second-class font to black is the last command, so that takes precedent */
+
+/* IDs take HIGHEST priority. It overrides any other styling */
+/* Classes come next */
+/* individual elements */
